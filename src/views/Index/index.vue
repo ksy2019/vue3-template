@@ -1,12 +1,12 @@
 <!--
  * @Date: 2022-06-12 21:42:57
  * @LastEditors: lks
- * @LastEditTime: 2022-07-07 20:32:11
+ * @LastEditTime: 2022-07-12 09:20:26
 -->
 <script  lang="ts">
 import { mapState } from 'vuex'
 import SvgAnimate from '@/components/SvgAnimate/index.vue'
-
+ 
 export default {
     components: {
         SvgAnimate
@@ -16,7 +16,6 @@ export default {
     },
     data(){
         return {
-
         }
     },
     methods: {
